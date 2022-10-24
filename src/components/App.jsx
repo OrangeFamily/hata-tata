@@ -62,7 +62,7 @@ export const App = () => {
           />
           <Accordion allowMultiple>
             <AccordionItem>
-              <h1>
+              <h1 className={s.titleH}>
                 <AccordionButton className={s.title}>Кухня</AccordionButton>
               </h1>
               <AccordionPanel>
@@ -85,7 +85,7 @@ export const App = () => {
 
             <AccordionItem>
               <>
-                <h1>
+                <h1 className={s.titleH}>
                   <AccordionButton className={s.title}>Бар</AccordionButton>
                 </h1>
                 <AccordionPanel>
@@ -98,7 +98,7 @@ export const App = () => {
 
             <AccordionItem>
               <>
-                <h1>
+                <h1 className={s.titleH}>
                   <AccordionButton className={s.title}>
                     Коктейлі
                   </AccordionButton>
