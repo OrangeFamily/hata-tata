@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hata-tata/static/css/main.b808af43.css",
-    "main.js": "/hata-tata/static/js/main.84e15b71.js",
+    "main.css": "/hata-tata/static/css/main.73fa6f32.css",
+    "main.js": "/hata-tata/static/js/main.dcc40562.js",
     "static/media/fon.jpg": "/hata-tata/static/media/fon.fb958b4c1ddbddd370c9.jpg",
     "static/media/meattarelka.png": "/hata-tata/static/media/meattarelka.d2409c3146a7a604cde9.png",
     "static/media/tartobear.png": "/hata-tata/static/media/tartobear.92a7c8c0f9f4aec98882.png",
@@ -13,11 +13,11 @@
     "static/media/orangeLogo.png": "/hata-tata/static/media/orangeLogo.9679a3f9a5d07c05ddb0.png",
     "static/media/neuropol-mwdium.ttf": "/hata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/hata-tata/index.html",
-    "main.b808af43.css.map": "/hata-tata/static/css/main.b808af43.css.map",
-    "main.84e15b71.js.map": "/hata-tata/static/js/main.84e15b71.js.map"
+    "main.73fa6f32.css.map": "/hata-tata/static/css/main.73fa6f32.css.map",
+    "main.dcc40562.js.map": "/hata-tata/static/js/main.dcc40562.js.map"
   },
   "entrypoints": [
-    "static/css/main.b808af43.css",
-    "static/js/main.84e15b71.js"
+    "static/css/main.73fa6f32.css",
+    "static/js/main.dcc40562.js"
   ]
 }
