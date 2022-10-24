@@ -1,5 +1,5 @@
 import s from './List.module.scss'
- export const Coffe = ({data, onModal}) => {
+ export const WithoutImg = ({data, onModal}) => {
 
     return data.map(e=>(
      
