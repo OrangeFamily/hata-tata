@@ -10,16 +10,24 @@ import { useState } from 'react';
 import { Modal } from './Modal/Modal';
 import s from './App.module.scss';
 import { List } from './comp/List/List';
+import ColdEatMass from './comp/Kitchen/Data/DataColdEat';
+import SaladsMass from './comp/Kitchen/Data/DataSalads';
+import FirstMass from './comp/Kitchen/Data/DataFirst';
+import MangalMass from './comp/Kitchen/Data/DataMangal';
 
-import AssortiMass from './comp/Kitchen/Data/DataAssorti';
+
+
 
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
   const [objectModal, setObjectModal] = useState({});
 
+ const dataColdEat=ColdEatMass
+ const dataSalads=SaladsMass
+ const dataFirst =FirstMass
+ const dataMangal=MangalMass
   
-  const dataAssorti = AssortiMass
   
 
   const dataModal = (title, price, text, src) => {
@@ -68,14 +76,44 @@ export const App = () => {
               <AccordionPanel>
                 <Accordion allowMultiple>
                  
-                  <AccordionItem>
+                <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
-                        колекція асорті
+                        холодні закуски
                       </AccordionButton>
                     </h2>
                     <AccordionPanel>
-                      <List data={dataAssorti} onModal={dataModal} />
+                      <List data={dataColdEat} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        салати
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataSalads} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        перші страви
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataFirst} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        страви з мангалу
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataMangal} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
                   
@@ -83,14 +121,23 @@ export const App = () => {
               </AccordionPanel>
             </AccordionItem>
 
-            <AccordionItem>
+            {/* <AccordionItem>
               <>
                 <h1 className={s.titleH}>
                   <AccordionButton className={s.title}>Бар</AccordionButton>
                 </h1>
                 <AccordionPanel>
                   <Accordion allowMultiple>
-                    
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        фірмові коктейлі від тата
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataNarCoct} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
                   </Accordion>
                 </AccordionPanel>
               </>
@@ -109,7 +156,7 @@ export const App = () => {
                   </Accordion>
                 </AccordionPanel>
               </>
-            </AccordionItem>
+            </AccordionItem> */}
             {showModal && (
               <Modal objectModal={objectModal} toggleModal={toggleModal} />
             )}
