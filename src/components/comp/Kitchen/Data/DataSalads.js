@@ -32,7 +32,7 @@ const SaladsMass=[
         id:5,
         title:"«цезар» 220г",
         price:"89 грн",
-        src:require('../img/123123.png'),
+        src:require('../img/cezar.jpg'),
         text:"мікс салатів, куряче філе, бекон, помідори, пармезан, соус «цезар»",
     },
     {

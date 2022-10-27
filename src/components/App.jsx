@@ -15,6 +15,7 @@ import SaladsMass from './comp/Kitchen/Data/DataSalads';
 import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MangalMass from './comp/Kitchen/Data/DataMangal';
 import MainMass from './comp/Kitchen/Data/DataMain';
+import { ModalTwo } from './Modal/ModalTwo';
 
 
 
@@ -170,7 +171,8 @@ export const App = () => {
               </>
             </AccordionItem> */}
             {showModal && (
-              <Modal objectModal={objectModal} toggleModal={toggleModal} />
+              // <Modal objectModal={objectModal} toggleModal={toggleModal} />
+              <ModalTwo objectModal={objectModal} toggleModal={toggleModal} />
             )}
           </Accordion>
         </section>
