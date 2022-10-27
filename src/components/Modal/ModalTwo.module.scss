@@ -36,8 +36,8 @@
   align-items: center;
   animation: scaleOn 500ms linear;
   @media (min-width: 320px) and (max-width: 480px) {
-    width: 245px;
-    height: 400px;
+    width: 300px;
+    height: 525px;
   }
 }
 .imgModal{
@@ -47,8 +47,8 @@
   @media (min-width: 320px) and (max-width: 480px) {
     // width: 215px;
     top: 0;
-    width: 245px;
-    height: 400px;
+    width: 300px;
+    height: 525px;
     
   }
 }
@@ -61,7 +61,7 @@
   padding: 20px;
   color: black;
   background-color: rgba(255, 255, 255, 0.677);
-  width: 185px;
+  width: 230px;
   margin-top: 15px;
   border-radius: 10px;
 }
