@@ -7,7 +7,7 @@ import {
 
 import { useState } from 'react';
 
-import { Modal } from './Modal/Modal';
+// import { Modal } from './Modal/Modal';
 import s from './App.module.scss';
 import { List } from './comp/List/List';
 import ColdEatMass from './comp/Kitchen/Data/DataColdEat';
