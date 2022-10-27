@@ -1,12 +1,40 @@
 {
   "files": {
-    "main.css": "/hata-tata/static/css/main.52592060.css",
-    "main.js": "/hata-tata/static/js/main.04aff176.js",
+    "main.css": "/hata-tata/static/css/main.975ab734.css",
+    "main.js": "/hata-tata/static/js/main.e8bc3ae7.js",
     "static/media/fon.jpg": "/hata-tata/static/media/fon.fb958b4c1ddbddd370c9.jpg",
+    "static/media/na4h.jpg": "/hata-tata/static/media/na4h.e6b826c78eac7b49580d.jpg",
+    "static/media/shashltato.jpg": "/hata-tata/static/media/shashltato.e9cdd7b58e5e82f252c4.jpg",
+    "static/media/ovochgra.jpg": "/hata-tata/static/media/ovochgra.a44704817d861f88fa12.jpg",
+    "static/media/piglop.jpg": "/hata-tata/static/media/piglop.8bcc9ad455fe0249ed67.jpg",
+    "static/media/kurnashp.jpg": "/hata-tata/static/media/kurnashp.2dec4183afb9a3b7aeda.jpg",
+    "static/media/cipltabak.jpg": "/hata-tata/static/media/cipltabak.cbeed5b0860cb8b25b69.jpg",
+    "static/media/chipolono.jpg": "/hata-tata/static/media/chipolono.394a5235bc4bdcbde4b5.jpg",
+    "static/media/lula.jpg": "/hata-tata/static/media/lula.6e7a6baca8dafdea58a2.jpg",
+    "static/media/otkumaandr.jpg": "/hata-tata/static/media/otkumaandr.2dc6799809dbd5f9aae4.jpg",
+    "static/media/sirtar.jpg": "/hata-tata/static/media/sirtar.df908835d1c3910cd93c.jpg",
+    "static/media/kartsel.jpg": "/hata-tata/static/media/kartsel.2be00546b7740c88b904.jpg",
     "static/media/myasnatar.jpg": "/hata-tata/static/media/myasnatar.c30d103a7bc9ebebca86.jpg",
+    "static/media/solottech.jpg": "/hata-tata/static/media/solottech.f9d24a14a7f6ff9b1029.jpg",
+    "static/media/pechnamang.jpg": "/hata-tata/static/media/pechnamang.13271c0f955ec31ad848.jpg",
+    "static/media/rullosos.jpg": "/hata-tata/static/media/rullosos.a9df8d55691d77b188e0.jpg",
+    "static/media/serdce.jpg": "/hata-tata/static/media/serdce.180b977d8515b0f0e37e.jpg",
     "static/media/risovo.jpg": "/hata-tata/static/media/risovo.327505e9fd896ebe14dc.jpg",
+    "static/media/losostar.jpg": "/hata-tata/static/media/losostar.ee173e405e8fc32ecef1.jpg",
+    "static/media/oliv.jpg": "/hata-tata/static/media/oliv.03edf4bcd2929ed87121.jpg",
+    "static/media/mlskur.jpg": "/hata-tata/static/media/mlskur.fe0d5d7f8010058a351a.jpg",
+    "static/media/mlsvetch.jpg": "/hata-tata/static/media/mlsvetch.f5a7fd5b8f582a557c64.jpg",
+    "static/media/skumbnamang.jpg": "/hata-tata/static/media/skumbnamang.49aa73f210c435ee1eb7.jpg",
     "static/media/sallosos.jpg": "/hata-tata/static/media/sallosos.cea00db87cdf220ef4e0.jpg",
+    "static/media/lososnamang.jpg": "/hata-tata/static/media/lososnamang.0bd8182ddd266c8481f5.jpg",
+    "static/media/osel.jpg": "/hata-tata/static/media/osel.c4824a36551c0cd755a9.jpg",
+    "static/media/skumhol.jpg": "/hata-tata/static/media/skumhol.1be560f37b793db532ad.jpg",
+    "static/media/steyksom.jpg": "/hata-tata/static/media/steyksom.e449997fe5e74d9de34e.jpg",
+    "static/media/lavashzsh.jpg": "/hata-tata/static/media/lavashzsh.40d167e0464f0b0e4755.jpg",
+    "static/media/mlsmak.jpg": "/hata-tata/static/media/mlsmak.c3e7c349f0647aec5059.jpg",
     "static/media/cezar.jpg": "/hata-tata/static/media/cezar.1d60575bdb6018e2e111.jpg",
+    "static/media/kruton.jpg": "/hata-tata/static/media/kruton.e1b26b32d773b089b15c.jpg",
+    "static/media/mlzfrut.jpg": "/hata-tata/static/media/mlzfrut.0eca17796ea5ad7abc5f.jpg",
     "static/media/salmam.jpg": "/hata-tata/static/media/salmam.165be299a5c2564f45a8.jpg",
     "static/media/greece.jpg": "/hata-tata/static/media/greece.c752fa05ea271ec5cd50.jpg",
     "static/media/saltat.jpg": "/hata-tata/static/media/saltat.c30e1a7fd7ce1cf888f5.jpg",
@@ -17,11 +45,11 @@
     "static/media/logo.png": "/hata-tata/static/media/logo.509f5fa308835659aa98.png",
     "static/media/neuropol-mwdium.ttf": "/hata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/hata-tata/index.html",
-    "main.52592060.css.map": "/hata-tata/static/css/main.52592060.css.map",
-    "main.04aff176.js.map": "/hata-tata/static/js/main.04aff176.js.map"
+    "main.975ab734.css.map": "/hata-tata/static/css/main.975ab734.css.map",
+    "main.e8bc3ae7.js.map": "/hata-tata/static/js/main.e8bc3ae7.js.map"
   },
   "entrypoints": [
-    "static/css/main.52592060.css",
-    "static/js/main.04aff176.js"
+    "static/css/main.975ab734.css",
+    "static/js/main.e8bc3ae7.js"
   ]
 }
