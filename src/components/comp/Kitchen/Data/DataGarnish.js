@@ -14,15 +14,15 @@ const GarnishMass=[
         text:"",
     },
     
+    // {
+    //     id:3,
+    //     title:"картопля з салом 200г/30г",
+    //     price:"??? грн",
+    //     src:require('../img/123123.png'),
+    //     text:"",
+    // },
     {
         id:3,
-        title:"картопля з салом 200г/30г",
-        price:"??? грн",
-        src:require('../img/123123.png'),
-        text:"",
-    },
-    {
-        id:4,
         title:"рис з овочами ???г",
         price:"??? грн",
         src:require('../img/risovo.jpg'),

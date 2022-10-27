@@ -12,14 +12,14 @@ import s from './App.module.scss';
 import { List } from './comp/List/List';
 import ColdEatMass from './comp/Kitchen/Data/DataColdEat';
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
-import FirstMass from './comp/Kitchen/Data/DataFirst';
+// import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MangalMass from './comp/Kitchen/Data/DataMangal';
 import MainMass from './comp/Kitchen/Data/DataMain';
 import { ModalTwo } from './Modal/ModalTwo';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import SousMass from './comp/Kitchen/Data/DataSous';
-import ToBearMass from './comp/Kitchen/Data/DataToBear';
+// import ToBearMass from './comp/Kitchen/Data/DataToBear';
 import { WithoutImg } from './comp/List/WithoutImg';
 
 
@@ -34,9 +34,9 @@ export const App = () => {
  const dataDeserts=DesertsMass
  const dataGarnish=GarnishMass
  const dataSous=SousMass
- const dataToBear=ToBearMass
+//  const dataToBear=ToBearMass
  const dataSalads=SaladsMass
- const dataFirst =FirstMass
+//  const dataFirst =FirstMass
  const dataMangal=MangalMass
  const dataMain=MainMass
   
@@ -108,7 +108,7 @@ export const App = () => {
                       <List data={dataSalads} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  <AccordionItem>
+                  {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         перші страви
@@ -117,7 +117,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataFirst} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem>
+                  </AccordionItem> */}
                   <AccordionItem className={s.itemList}>
                     <h2>
                       <AccordionButton className={s.titleItem}>
@@ -148,7 +148,7 @@ export const App = () => {
                       <List data={dataGarnish} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  <AccordionItem>
+                  {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         до пива
@@ -157,7 +157,7 @@ export const App = () => {
                     <AccordionPanel>
                       <List data={dataToBear} onModal={dataModal} />
                     </AccordionPanel>
-                  </AccordionItem>
+                  </AccordionItem> */}
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
