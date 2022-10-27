@@ -3,7 +3,7 @@ const DesertsMass=[
         id:1,
         title:"морозиво в асортиметнті 100г",
         price:"??? грн",
-        src: require('../img/123123.png'),
+        src: require('../img/icee.png'),
         text:"пломбір, шоколадне, полуничне",
     },
     // {

@@ -35,7 +35,9 @@
   box-shadow: 0px 0px 15px 15px rgb(255 0 0);
   align-items: center;
   animation: scaleOn 500ms linear;
+  background-color: rgb(49, 47, 47);
   @media (min-width: 320px) and (max-width: 480px) {
+    background-color: rgb(49, 47, 47);
     width: 300px;
     height: 525px;
   }
