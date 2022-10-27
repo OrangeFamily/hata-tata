@@ -1,4 +1,4 @@
-import s from './List.module.scss'
+import s from './Listwithout.module.scss'
  export const WithoutImg = ({data, onModal}) => {
 
     return data.map(e=>(

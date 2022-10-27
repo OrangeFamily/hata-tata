@@ -20,6 +20,7 @@ import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import SousMass from './comp/Kitchen/Data/DataSous';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
+import { WithoutImg } from './comp/List/WithoutImg';
 
 
 
@@ -164,7 +165,7 @@ export const App = () => {
                       </AccordionButton>
                     </h2>
                     <AccordionPanel>
-                      <List data={dataSous} onModal={dataModal} />
+                      <WithoutImg data={dataSous} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
                   <AccordionItem>

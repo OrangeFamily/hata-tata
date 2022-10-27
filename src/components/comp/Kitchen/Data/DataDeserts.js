@@ -18,14 +18,14 @@ const DesertsMass=[
         id:3,
         title:"млинці з маком та сметаною 200г/50г",
         price:"89 грн",
-        src:require('../img/123123.png'),
+        src:require('../img/mlsmak.jpg'),
         text:"",
     },
     {
         id:4,
         title:"млинці з фруктами та сметаною 200г/50г",
         price:"149 грн",
-        src:require('../img/123123.png'),
+        src:require('../img/mlzfrut.jpg'),
         text:"яблуко, апельсин, карамель",
     },
     {

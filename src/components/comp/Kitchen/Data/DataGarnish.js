@@ -3,14 +3,14 @@ const GarnishMass=[
         id:1,
         title:"«чиполліно та друзі» 100г",
         price:"??? грн",
-        src: require('../img/123123.png'),
+        src: require('../img/chipolono.jpg'),
         text:"цибуля, кабачок, помідори, печериці, запечені на мангалі",
     },
     {
         id:2,
         title:"печериці з часником, запечені на мангал 100г",
         price:"??? грн",
-        src:require('../img/123123.png'),
+        src:require('../img/pechnamang.jpg'),
         text:"",
     },
     
@@ -32,7 +32,14 @@ const GarnishMass=[
         id:4,
         title:"картопля по селянськи ???г",
         price:"??? грн",
-        src:require('../img/123123.png'),
+        src:require('../img/kartsel.jpg'),
+        text:"",
+    },
+    {
+        id:5,
+        title:"свинна лопатка ???г",
+        price:"??? грн",
+        src:require('../img/piglop.jpg'),
         text:"",
     },
         
