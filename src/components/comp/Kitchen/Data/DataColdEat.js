@@ -17,7 +17,7 @@ const ColdEatMass=[
         id:2,
         title:"м'ясна тарілка 200г",
         price:"??? грн",
-        src:require('../img/123123.png'),
+        src:require('../img/myasnatar.jpg'),
         text:"хамон, бастурма, бекон, балик",
     },
     

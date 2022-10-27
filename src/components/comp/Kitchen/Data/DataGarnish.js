@@ -25,7 +25,7 @@ const GarnishMass=[
         id:4,
         title:"рис з овочами ???г",
         price:"??? грн",
-        src:require('../img/123123.png'),
+        src:require('../img/risovo.jpg'),
         text:"",
     },
     {
