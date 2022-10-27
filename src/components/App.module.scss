@@ -188,6 +188,7 @@ li {
   background-color: rgb(129, 18, 18);
   @media (min-width: 320px) and (max-width: 480px) {
     font-size: 30px;
+    
   }
 }
 
@@ -201,8 +202,17 @@ li {
   border: none;
   color: white;
   background-color: rgba(255, 0, 0, 0.818);
+  border-radius: 10px;
+  padding: 10px;
   @media (min-width: 320px) and (max-width: 480px) {
     font-size: 15px;
+    width: 360px;
+  }
+}
+.itemList{
+  @media (min-width: 320px) and (max-width: 480px) {
+   
+    width: 360px;
   }
 }
 .orign{

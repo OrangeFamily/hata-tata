@@ -117,7 +117,7 @@ export const App = () => {
                       <List data={dataFirst} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
-                  <AccordionItem>
+                  <AccordionItem className={s.itemList}>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         страви з мангалу
