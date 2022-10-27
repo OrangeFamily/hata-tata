@@ -16,6 +16,10 @@ import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MangalMass from './comp/Kitchen/Data/DataMangal';
 import MainMass from './comp/Kitchen/Data/DataMain';
 import { ModalTwo } from './Modal/ModalTwo';
+import DesertsMass from './comp/Kitchen/Data/DataDeserts';
+import GarnishMass from './comp/Kitchen/Data/DataGarnish';
+import SousMass from './comp/Kitchen/Data/DataSous';
+import ToBearMass from './comp/Kitchen/Data/DataToBear';
 
 
 
@@ -26,6 +30,10 @@ export const App = () => {
   const [objectModal, setObjectModal] = useState({});
 
  const dataColdEat=ColdEatMass
+ const dataDeserts=DesertsMass
+ const dataGarnish=GarnishMass
+ const dataSous=SousMass
+ const dataToBear=ToBearMass
  const dataSalads=SaladsMass
  const dataFirst =FirstMass
  const dataMangal=MangalMass
@@ -44,19 +52,19 @@ export const App = () => {
     <>
       <div className={s.upper}>
         <header className={s.header}>
-          <a
+          {/* <a
             href="https://misteram.com.ua/chernigov/orangebar"
             target="_blank"
             rel="noreferrer"
           >
-            {/* <img src={require('./img/am.png')} alt="" className={s.iconAm} /> */}
+            <img src={require('./img/am.png')} alt="" className={s.iconAm} />
             <button className={s.iconAm}>ДОСТАВКА</button>
-          </a>
-          <a href="tel:+380939179177" className={s.tel}>
-            <p className={s.telSize}>+38 093 91 79 177</p>
+          </a> */}
+          <a href="tel:+380932251525" className={s.tel}>
+            <p className={s.telSize}>+38 093 22 51 525</p>
           </a>
           <a
-            href="https://instagram.com/orange.bar_club?igshid=YmMyMTA2M2Y="
+            href="https://instagram.com/hata_tata.chernihiv_?igshid=YmMyMTA2M2Y="
             target="_blank"
             rel="noreferrer"
             className={s.link}
@@ -67,7 +75,7 @@ export const App = () => {
         <section className={s.main}>
           <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
           <img
-            src={require('./img/orangeLogo.png')}
+            src={require('./img/logo.png')}
             alt=""
             className={s.logo}
           />
@@ -127,6 +135,46 @@ export const App = () => {
                     </h2>
                     <AccordionPanel>
                       <List data={dataMain} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        гарніри
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataGarnish} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        до пива
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataToBear} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        соуси
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataSous} onModal={dataModal} />
+                    </AccordionPanel>
+                  </AccordionItem>
+                  <AccordionItem>
+                    <h2>
+                      <AccordionButton className={s.titleItem}>
+                        десерти
+                      </AccordionButton>
+                    </h2>
+                    <AccordionPanel>
+                      <List data={dataDeserts} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
                   
