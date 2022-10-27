@@ -95,7 +95,7 @@ const MangalMass=[
         id:12,
         title:"лаваш з сиром та зеленню 140г",
         price:"??? грн",
-        src:require('../img/123123.png'),
+        src:require('../img/lavssir.jpg'),
         text:"",
     },
     {
