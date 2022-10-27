@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hata-tata/static/css/main.d96ce017.css",
+    "main.css": "/hata-tata/static/css/main.f95ba57e.css",
     "main.js": "/hata-tata/static/js/main.b89aa6ab.js",
     "static/media/fon.jpg": "/hata-tata/static/media/fon.fb958b4c1ddbddd370c9.jpg",
     "static/media/sallosos.jpg": "/hata-tata/static/media/sallosos.cea00db87cdf220ef4e0.jpg",
@@ -15,11 +15,11 @@
     "static/media/logo.png": "/hata-tata/static/media/logo.509f5fa308835659aa98.png",
     "static/media/neuropol-mwdium.ttf": "/hata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/hata-tata/index.html",
-    "main.d96ce017.css.map": "/hata-tata/static/css/main.d96ce017.css.map",
+    "main.f95ba57e.css.map": "/hata-tata/static/css/main.f95ba57e.css.map",
     "main.b89aa6ab.js.map": "/hata-tata/static/js/main.b89aa6ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.d96ce017.css",
+    "static/css/main.f95ba57e.css",
     "static/js/main.b89aa6ab.js"
   ]
 }
