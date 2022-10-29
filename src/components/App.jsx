@@ -76,7 +76,7 @@ export const App = () => {
         <section className={s.main}>
           <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
           <img
-            src={require('./img/logo.png')}
+            src={require('./img/logohata2.png')}
             alt=""
             className={s.logo}
           />
