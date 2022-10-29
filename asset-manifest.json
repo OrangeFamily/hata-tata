@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hata-tata/static/css/main.e0004987.css",
-    "main.js": "/hata-tata/static/js/main.511f489a.js",
+    "main.css": "/hata-tata/static/css/main.bf280ff3.css",
+    "main.js": "/hata-tata/static/js/main.9d2bf967.js",
     "static/media/fon.jpg": "/hata-tata/static/media/fon.fb958b4c1ddbddd370c9.jpg",
     "static/media/na4h.jpg": "/hata-tata/static/media/na4h.e6b826c78eac7b49580d.jpg",
     "static/media/shashltato.jpg": "/hata-tata/static/media/shashltato.e9cdd7b58e5e82f252c4.jpg",
@@ -40,16 +40,16 @@
     "static/media/greece.jpg": "/hata-tata/static/media/greece.c752fa05ea271ec5cd50.jpg",
     "static/media/saltat.jpg": "/hata-tata/static/media/saltat.c30e1a7fd7ce1cf888f5.jpg",
     "static/media/olivlosos.jpg": "/hata-tata/static/media/olivlosos.19a8888feddd782b99ef.jpg",
+    "static/media/logohata2.png": "/hata-tata/static/media/logohata2.4084e50b3a49ba3a3a1a.png",
     "static/media/inst.png": "/hata-tata/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/century-gotic.ttf": "/hata-tata/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
-    "static/media/logo.png": "/hata-tata/static/media/logo.509f5fa308835659aa98.png",
     "static/media/neuropol-mwdium.ttf": "/hata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/hata-tata/index.html",
-    "main.e0004987.css.map": "/hata-tata/static/css/main.e0004987.css.map",
-    "main.511f489a.js.map": "/hata-tata/static/js/main.511f489a.js.map"
+    "main.bf280ff3.css.map": "/hata-tata/static/css/main.bf280ff3.css.map",
+    "main.9d2bf967.js.map": "/hata-tata/static/js/main.9d2bf967.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0004987.css",
-    "static/js/main.511f489a.js"
+    "static/css/main.bf280ff3.css",
+    "static/js/main.9d2bf967.js"
   ]
 }
