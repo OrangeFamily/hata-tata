@@ -55,6 +55,13 @@ const SousMass=[
         // src: require('../img/123123.png'),
         text:"",
     },
+    {
+        id:9,
+        title:"майонез 50г",
+        price:"10 грн",
+        // src: require('../img/123123.png'),
+        text:"",
+    },
 ]
 
 export default SousMass;

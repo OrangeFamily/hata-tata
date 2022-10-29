@@ -1,4 +1,4 @@
-const MainMass=[
+const HotMass=[
     // {
     //     id:1,
     //     title:"вареники з картоплею 250г/50г",
@@ -50,8 +50,21 @@ const MainMass=[
         text:"сметана",
     },
     
-    
+    {
+        id:3,
+        title:"лаваш з сиром та зеленню 140г",
+        price:"??? грн",
+        src:require('../img/lavssir.jpg'),
+        text:"",
+    },
+    {
+        id:4,
+        title:"лаваш з сиром та шинкою 200г",
+        price:"??? грн",
+        src:require('../img/lavashzsh.jpg'),
+        text:"",
+    },
     
 ]
 
-export default MainMass;
+export default HotMass;

@@ -21,13 +21,7 @@ const ToBearMass=[
     //     // src:require('../img/asorti/tovodka.png'),
     //     text:"бастурма, хамон, снеки кабаноси, сир косичка, чіпси з лаваша, горіхи",
     // },
-    {
-        id:1,
-        title:"дошка ковбаси до пива 600г",
-        price:"??? грн",
-        src:require('../img/123123.png'),
-        text:"",
-    },
+    
         
 ]
 

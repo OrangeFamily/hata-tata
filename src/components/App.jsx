@@ -14,7 +14,7 @@ import ColdEatMass from './comp/Kitchen/Data/DataColdEat';
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
 // import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MangalMass from './comp/Kitchen/Data/DataMangal';
-import MainMass from './comp/Kitchen/Data/DataMain';
+import HotMass from './comp/Kitchen/Data/DataHot';
 import { ModalTwo } from './Modal/ModalTwo';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
@@ -38,7 +38,7 @@ export const App = () => {
  const dataSalads=SaladsMass
 //  const dataFirst =FirstMass
  const dataMangal=MangalMass
- const dataMain=MainMass
+ const dataHot=HotMass
   
   
 
@@ -131,11 +131,11 @@ export const App = () => {
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
-                        основні страви
+                        гарячі закуски
                       </AccordionButton>
                     </h2>
                     <AccordionPanel>
-                      <List data={dataMain} onModal={dataModal} />
+                      <List data={dataHot} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem>
                   <AccordionItem>
