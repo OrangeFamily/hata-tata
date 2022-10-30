@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hata-tata/static/css/main.31f528dc.css",
+    "main.css": "/hata-tata/static/css/main.f65a16bf.css",
     "main.js": "/hata-tata/static/js/main.a4bf5af8.js",
     "static/media/fon7org.jpg": "/hata-tata/static/media/fon7org.6a0914c6afd7969a9377.jpg",
     "static/media/na4h.jpg": "/hata-tata/static/media/na4h.e6b826c78eac7b49580d.jpg",
@@ -45,11 +45,11 @@
     "static/media/century-gotic.ttf": "/hata-tata/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
     "static/media/neuropol-mwdium.ttf": "/hata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/hata-tata/index.html",
-    "main.31f528dc.css.map": "/hata-tata/static/css/main.31f528dc.css.map",
+    "main.f65a16bf.css.map": "/hata-tata/static/css/main.f65a16bf.css.map",
     "main.a4bf5af8.js.map": "/hata-tata/static/js/main.a4bf5af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.31f528dc.css",
+    "static/css/main.f65a16bf.css",
     "static/js/main.a4bf5af8.js"
   ]
 }
