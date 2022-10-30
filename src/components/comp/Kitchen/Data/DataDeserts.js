@@ -2,7 +2,7 @@ const DesertsMass=[
     {
         id:1,
         title:"морозиво в асортиметнті 150г",
-        price:"??? грн",
+        price:"50 грн",
         src: require('../img/icee.png'),
         text:"пломбір, шоколадне, полуничне",
     },
@@ -17,14 +17,14 @@ const DesertsMass=[
     {
         id:2,
         title:"млинці з маком та сметаною 220г/50г",
-        price:"??? грн",
+        price:"69 грн",
         src:require('../img/mlsmak.jpg'),
         text:"",
     },
     {
         id:3,
         title:"млинці з фруктами та сметаною 220г/50г",
-        price:"??? грн",
+        price:"69 грн",
         src:require('../img/mlzfrut.jpg'),
         text:"яблуко, апельсин, карамель",
     },

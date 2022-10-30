@@ -74,9 +74,9 @@ export const App = () => {
           </a>
         </header>
         <section className={s.main}>
-          <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
+          
           <img
-            src={require('./img/logohata2.png')}
+            src={require('./img/logohata3.png')}
             alt=""
             className={s.logo}
           />
@@ -180,7 +180,9 @@ export const App = () => {
                   </AccordionItem>
                   
                 </Accordion>
+                <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
               </AccordionPanel>
+              
             </AccordionItem>
 
             {/* <AccordionItem>

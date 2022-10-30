@@ -53,14 +53,14 @@ const HotMass=[
     {
         id:3,
         title:"лаваш з сиром та зеленню 140г",
-        price:"??? грн",
+        price:"59 грн",
         src:require('../img/lavssir.jpg'),
         text:"",
     },
     {
         id:4,
         title:"лаваш з сиром та шинкою 200г",
-        price:"??? грн",
+        price:"65 грн",
         src:require('../img/lavashzsh.jpg'),
         text:"",
     },

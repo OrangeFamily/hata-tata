@@ -2,14 +2,14 @@ const GarnishMass=[
     {
         id:1,
         title:"«чиполліно та друзі» 200г",
-        price:"??? грн",
+        price:"49 грн",
         src: require('../img/chipolono.jpg'),
         text:"цибуля, кабачок, помідори, печериці, запечені на мангалі (на вагу)",
     },
     {
         id:2,
         title:"печериці з часником, запечені на мангалі 200г",
-        price:"??? грн",
+        price:"45 грн",
         src:require('../img/pechnamang.jpg'),
         text:"на вагу",
     },
@@ -24,14 +24,14 @@ const GarnishMass=[
     {
         id:3,
         title:"рис з овочами 250г",
-        price:"??? грн",
+        price:"65 грн",
         src:require('../img/risovo.jpg'),
         text:"рис, мексиканська суміш",
     },
     {
         id:4,
         title:"картопля по селянськи 250г",
-        price:"??? грн",
+        price:"75 грн",
         src:require('../img/kartsel.jpg'),
         text:"картопля, спеції, чвсник",
     },
