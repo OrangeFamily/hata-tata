@@ -11,15 +11,15 @@ body {
   font-family: centuryGotic;
   background-color: rgba(0, 0, 0, 0.582);
 }
-.head {
-  position: relative;
-  margin: auto;
-  width: 1366px;
+// .head {
+//   position: relative;
+//   margin: auto;
+//   width: 1366px;
 
-  @media (min-width: 320px) and (max-width: 480px) {
-    width: 360px;
-  }
-}
+//   @media (min-width: 320px) and (max-width: 480px) {
+//     width: 360px;
+//   }
+// }
 .main {
   display: flex;
   flex-direction: column;
