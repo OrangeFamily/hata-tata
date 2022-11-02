@@ -38,14 +38,14 @@ const HotMass=[
     {
         id:1,
         title:"млинці з шинкою та сиром 230г",
-        price:"??? грн",
+        price:"69 грн",
         src:require('../img/mlsvetch.jpg'),
         text:"",
     },
     {
         id:2,
         title:"млинці з куркою та грибами 250г/50г",
-        price:"??? грн",
+        price:"69 грн",
         src:require('../img/mlskur.jpg'),
         text:"сметана",
     },

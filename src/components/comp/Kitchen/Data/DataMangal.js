@@ -66,7 +66,7 @@ const MangalMass=[
     {
         id:7,
         title:"стейк з лосося 100г",
-        price:"??? грн",
+        price:"120 грн",
         src:require('../img/lososnamang.jpg'),
         text:"на вагу",
     },
