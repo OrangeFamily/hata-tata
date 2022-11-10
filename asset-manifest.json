@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/xata-tata/static/css/main.805810ce.css",
-    "main.js": "/xata-tata/static/js/main.74bc9f79.js",
+    "main.js": "/xata-tata/static/js/main.14b2992f.js",
     "static/media/fon7org.jpg": "/xata-tata/static/media/fon7org.6a0914c6afd7969a9377.jpg",
     "static/media/na4h.jpg": "/xata-tata/static/media/na4h.e6b826c78eac7b49580d.jpg",
     "static/media/shashltato.jpg": "/xata-tata/static/media/shashltato.e9cdd7b58e5e82f252c4.jpg",
@@ -46,10 +46,10 @@
     "static/media/neuropol-mwdium.ttf": "/xata-tata/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/xata-tata/index.html",
     "main.805810ce.css.map": "/xata-tata/static/css/main.805810ce.css.map",
-    "main.74bc9f79.js.map": "/xata-tata/static/js/main.74bc9f79.js.map"
+    "main.14b2992f.js.map": "/xata-tata/static/js/main.14b2992f.js.map"
   },
   "entrypoints": [
     "static/css/main.805810ce.css",
-    "static/js/main.74bc9f79.js"
+    "static/js/main.14b2992f.js"
   ]
 }
