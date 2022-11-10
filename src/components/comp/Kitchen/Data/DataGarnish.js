@@ -33,7 +33,7 @@ const GarnishMass=[
         title:"картопля по селянськи 250г",
         price:"75 грн",
         src:require('../img/kartsel.jpg'),
-        text:"картопля, спеції, чвсник",
+        text:"картопля, спеції, часник",
     },
     
         
